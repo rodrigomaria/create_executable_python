@@ -1,7 +1,7 @@
 # create_executable_python
 How to create executable in Python
 
-### POC executed based in [article](https://datatofish.com/executable-pyinstaller/)
+### POC executed based in [article](https://datatofish.com/executable-pyinstaller/).
 
 ## Instructions:
 1. Add Python to Windows Path
@@ -11,3 +11,4 @@ How to create executable in Python
 5. Create the Executable using Pyinstaller
 6. Run the Executable
 
+## This repo contains the executable created previous in running/dist/running.exe.
